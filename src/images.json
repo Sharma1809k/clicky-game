@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": "Dave the Minion",
+    "image": "https://i.pinimg.com/originals/e8/2e/d4/e82ed449a078a4f2db6dd2d43ad7bbb2.jpg",
+    "clicked": false
+ 
+  },
+  {
+    "id": 2,
+    "name": "Stuart the Minion",
+    "image": "https://i.pinimg.com/236x/61/da/18/61da18df76870225271c0bbf2bd6b88c--minions-despicable-me-minions-png.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Tim the Minion",
+    "image": "https://assets.rbl.ms/13371210/980x.png",
+    "clicked": false
+   
+  },
+  {
+    "id": 4,
+    "name": "Antonio Perez",
+    "image": "https://vignette.wikia.nocookie.net/despicableme/images/9/9d/2287ebaafa4e3db2604c72ba43b4a3c9.jpg/revision/latest?cb=20160904072257",
+    "clicked": false
+
+  },
+  {
+    "id": 5,
+    "name": "Agnes",
+    "image": "https://i.pinimg.com/originals/b1/b1/f1/b1b1f11bbd98be7b8f76e28ccb865f67.jpg",
+    "clicked": false
+   
+  },
+  {
+    "id": 6,
+    "name": "Gru",
+    "image": " http://img1.wikia.nocookie.net/__cb20140625000624/geosworld/images/5/50/Characters-of-Despicable-Me-2-Gru-Wallpaper-HD.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 7,
+    "name": "Edith",
+    "image": "https://vignette.wikia.nocookie.net/despicableme/images/f/f6/L_1690953_763a1f00.jpg/revision/latest?cb=20151224162505",
+    "clicked": false
+
+  },
+  {
+    "id": 8,
+    "name": "Balthazar Bratt",
+    "image": "https://pop.inquirer.net/files/2017/06/DM3_BRATT_CA_RD_03-768x1024.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 9,
+    "name": "Margo",
+    "image": "https://i.pinimg.com/originals/23/cd/b8/23cdb880cf63b8cd8d4f4839cd0bc002.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 10,
+    "name": "Lucy Wilde",
+    "image": "https://vignette.wikia.nocookie.net/despicableme/images/7/7e/Despicableme2-lucywilde-kristenwigg-300-01.jpg/revision/latest/scale-to-width-down/2000?cb=20170711172608",
+    "clicked": false
+
+  },
+  {
+    "id": 11,
+    "name": "Edna Mode",
+    "image": "http://darlenefranklinwrites.com/wp-content/uploads/2018/01/new-despicable-me-characters-wiki-the-incredibles-characters-giant-despicable-me-characters-wiki.jpg",
+    "clicked": false
+
+  },
+  {
+    "id": 12,
+    "name": "Dr. Nefario",
+    "image": "https://www.black-leatherjacket.com/image/cache/data/Dr-nefario-jacket/dr-nefario-jacket-900x900.jpg",
+    "clicked": false
+
+  }
+]

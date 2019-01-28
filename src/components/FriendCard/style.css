@@ -1,0 +1,8 @@
+.img-container > img {
+width: 130px;
+height: 150px;
+float: left;
+margin: 10px;
+box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+} 
+
